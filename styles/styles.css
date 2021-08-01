@@ -1,0 +1,114 @@
+h1{
+  text-align: left;
+  color:white;
+  padding-top: 20px;
+  padding-left: 20px;
+}
+h2{
+  text-align: center;
+  padding-top: 20px;
+  color: white;
+}
+
+#header ul li{
+list-style: none;
+position: absolute;
+text-decoration: none;
+}
+
+header{
+  background-color: black;
+  height: 100px;
+}
+
+
+
+.description{
+  text-align: center;
+}
+
+img{
+width: 100px ;
+height: 200px;
+align-items: center;
+}
+
+.center{
+  display: block;
+  margin-left: auto  ;
+  margin-right: auto;
+  width: 50%;
+}
+
+.btn-container{
+  text-align: center;
+}
+
+.btn-color{
+  background-color: black;
+  color: white;
+}
+.btn1-color{
+  background-color: black;
+  color: white;
+}
+.first{
+  background-color: black;
+}
+
+.btn-star{
+  text-align: center;
+  height: 100px;
+  
+}
+.btn-unique{
+  text-align: center;
+}
+.last{
+  background-color:black;
+  size: 100px;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+  
+}
+
+ul {
+  text-align: center;
+}
+:root{
+  color: rgb(0, 0, 0);
+}
+.pro{
+  background-color: red;
+  color: whitesmoke;
+}
+.Blogging{
+  color: black;
+}
+.Blogging-button{
+  background-color: red;
+  color:whitesmoke ;
+}
+.name{
+  color: black;
+  text-align: center;
+
+}
+.hpb{
+  text-align: right;
+  padding-right: 20px;
+  padding-bottom: 100px;
+  
+}
+
+body{
+  background-color:cornsilk;
+}
+
+.final{
+  justify-content: space-between;
+}
+
